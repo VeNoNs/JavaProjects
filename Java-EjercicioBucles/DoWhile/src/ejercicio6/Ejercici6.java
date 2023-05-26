@@ -19,10 +19,10 @@ public class Ejercici6 {
      */
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        System.out.println("Cálculo del Máximo Común Divisor (MCD)");
-        System.out.print("Ingrese el primer número entero positivo: ");
+        System.out.println("Calculo del Maximo Comun Divisor (MCD)");
+        System.out.print("Ingrese el primer numero entero positivo: ");
         int numero1 = entrada.nextInt();
-        System.out.print("Ingrese el segundo número entero positivo: ");
+        System.out.print("Ingrese el segundo numero entero positivo: ");
         int numero2 = entrada.nextInt();
 
         int mcd = 0;
@@ -38,7 +38,7 @@ public class Ejercici6 {
             }
         } while (resto != 0);
 
-        System.out.println("El Máximo Común Divisor (MCD) de los números ingresados es: " + mcd);
+        System.out.println("El MCD de los números ingresados es: " + mcd);
     }
     
 }
