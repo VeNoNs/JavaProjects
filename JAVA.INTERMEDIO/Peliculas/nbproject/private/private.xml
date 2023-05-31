@@ -2,17 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/JAVA.INTERMEDIO/Peliculas/src/peliculas/ex/EscrituraEx.java</file>
-            <file>file:/D:/JAVA.INTERMEDIO/Peliculas/src/peliculas/servicio/ICatalogo.java</file>
-            <file>file:/D:/JAVA.INTERMEDIO/Peliculas/src/domain/Pelicula.java</file>
-            <file>file:/D:/JAVA.INTERMEDIO/Peliculas/src/peliculas/servicio/ImplCatalogo.java</file>
-            <file>file:/D:/JAVA.INTERMEDIO/Peliculas/src/datos/AcceDa.java</file>
-            <file>file:/D:/JAVA.INTERMEDIO/Peliculas/src/peliculas/ex/AccesoDatosEx.java</file>
-            <file>file:/D:/JAVA.INTERMEDIO/Peliculas/src/peliculas/presentacion/PresentacionUsuario.java</file>
-            <file>file:/D:/JAVA.INTERMEDIO/Peliculas/src/peliculas/ex/LecturaEx.java</file>
-            <file>file:/D:/JAVA.INTERMEDIO/Peliculas/src/datos/AccesoDatos.java</file>
-            <file>file:/D:/JAVA.INTERMEDIO/Peliculas/peliculas.txt</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
